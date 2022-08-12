@@ -1,4 +1,4 @@
 ## course1
 testing
 
-#smth new
+# smth new
